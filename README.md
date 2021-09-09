@@ -1,6 +1,6 @@
 Project Description:
-  The Web Applicaiton named "Instaweb" in this application user can able to login to their account. View their account, Edit their account, Delete their account and also user can search for another user
-and finally user can logout the account.
+  The Web Applicaiton named "Instaweb" in this application user can able to login to their account. View their account, Edit their account, Delete their account and also user can search for another userand finally user can logout the account.
+
 Technologies Used: 
     HTML, CSS & JavaScript used for user Interface. 
     JAVA, Hibernate for Backend and MySQL Database. 
