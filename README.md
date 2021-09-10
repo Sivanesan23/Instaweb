@@ -13,7 +13,7 @@ Features:
     User can able to Login/Logout their account.
      
 Getting Started:
-    git remote add origin 
+    git remote add origin https://github.com/Sivanesan23/Instaweb.git
     compile and run the java code for the server and database connection open up the home.html in the browser and pick a login run in a IDE
 
 Usage:
